@@ -1,4 +1,4 @@
-chaning the file .. Hi I am computer 
+changing the file .. Hi I am computer 
 On branch master
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
@@ -7,4 +7,4 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 
-We see the git status modified after changing the file
+git status modified after changing the file
